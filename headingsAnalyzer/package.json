@@ -12,7 +12,7 @@
     "test": "mocha api/v1/**/*spec.js"
   },
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "body-parser": "^1.18.2",
     "cassandra-driver": "^3.3.0",
     "cheerio": "^1.0.0-rc.2",
